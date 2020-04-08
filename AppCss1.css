@@ -1,0 +1,132 @@
+#edge {
+background: white;
+width: 500px;
+height: 300px;
+margin: 0 auto;
+border-radius: 25px;
+border: 2px solid #73AD21;
+}
+
+
+#edge p{
+color: #5c6669;		
+font-family:serif;
+font-size: 20px;
+font-weight: 800;
+}
+
+#pswrd, #secQus, #set_pswd, #set_pswd_val {
+	background-color:#FFFFFF;
+	border: 4px solid #ccc;
+	padding: 2px 10px;
+	width:42%;
+	border-radius: 8px;
+	box-sizing: border-box;
+	display: inline-block;
+	}
+	
+	
+	
+
+.btn-credit{
+background-color: black;
+border: 2px solid white;
+border-radius: 4px;
+color: white;
+padding: 14px 18px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+
+.btn-credit:hover {
+background-color: #f44336;
+color: white;
+font-size: 17px;
+}
+
+
+.btn-credit1{
+background-color: black;
+border: 2px solid white;
+border-radius: 4px;
+color: white;
+padding: 14px 18px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 2px 0px;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+
+.btn-credit1:hover {
+background-color: #f44336;
+color: white;
+font-size: 17px;
+}
+
+
+
+
+input[type=text]{
+width: 42%;
+padding: 2px 10px;
+margin: 10px 0;
+display: inline-block;
+border: 4px solid #ccc;
+border-radius: 8px;
+box-sizing: border-box;
+}
+
+
+
+
+p{
+color: white;
+font-family:Georgia;
+font-style: italic;
+font-weight: 900;
+}
+
+body{
+background-image: url('images/6.jpg');
+background-color: black;
+}
+
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  border-radius: 8px;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: blue;
+}
+
+#log{
+border: 1px solid ;
+  padding: 1px;
+  box-shadow: 150px 50px 150px 50px;
+}
+
+#set{
+border: 1px solid  ;
+  padding: 1px;
+  box-shadow: 90px 70px 90px 70px;
+}
+
+.jj	
+{-webkit-animation-duration:0.5s;
+-webkit-animation-delay:0.8s;
+-webkit-animation-iteration-count:1;}
