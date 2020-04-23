@@ -5,7 +5,7 @@
 </head>
 <body onload="check()" align="center" >
 <img src="images/logo.png" style="height:120px; width:120px " />
-<input type="button" onclick="clearance()" value="logout" style="position: absolute; top: 50px; right: 50px;  color : black; font-size: 17px; font-family: verdana;"/>
+<input type="button" onclick="clearance()" value="logout" style="position: absolute; top: 50px; right: 50px; padding: 10px;  color : black; font-size: 17px; font-family: verdana;"/>
 <p id="txt"></p>
 <h2 style="font-family:verdana; color: white; "><p class="jj animated fadeInRightBig" style="font-family: verdana;">Checking Appraisal Criteria</p></h2>
 <form>
@@ -61,7 +61,7 @@ https://twitter.com/Wipro/" title="join twitter" target="_blank"><img src="image
 
 <script>
 
-
+window.history.forward();
 
 var xx=localStorage.getItem("Employee_name");
 
@@ -211,7 +211,6 @@ document.getElementById("btn-id").style.display="none";
 }
 
 function clearance(){
-	localStorage.clear();
 	window.location.href="Login.html";
 }
 
