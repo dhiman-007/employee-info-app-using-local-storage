@@ -7,4 +7,4 @@ As per logic his response will be generated after all the right inputs.
 
 Methods Like getItem() and setItem() are used while getting and setting values for variables.
 
-App link: https://dhiman-007.github.io/appraisal-app-using-local-storage-java-script/
+App link: https://dhiman-007.github.io/employee-info-app-using-local-storage/
