@@ -62,7 +62,7 @@ font-weight: 900;
 }
 
 body{
-background-image:url('images/wipro-1.jpg');
+background-image:url('../images/wipro-1.jpg');
 }
 
 a:link, a:visited {

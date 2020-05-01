@@ -4,7 +4,7 @@ height:700;
 width:1350;
 margin:0px auto;
 background-repeat:no-repeat;
-background-image:url('images/login_back.jpg');
+background-image:url('../images/login_back.jpg');
 }
 
 
@@ -78,6 +78,6 @@ a:hover
 }
 
 body{
-overflow-x: hidden; 
+overflow: hidden; 
  }}
 
